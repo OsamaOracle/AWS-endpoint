@@ -1,4 +1,4 @@
-# Beagle Project
+# AWS endpoint Project
 
 ## Introduction
 
